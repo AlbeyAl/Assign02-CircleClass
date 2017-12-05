@@ -1,0 +1,5 @@
+﻿  CircleClass.cpp
+x:\circleclass\circleclass\circleclass.cpp(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  CircleClass.vcxproj -> X:\CircleClass\Debug\CircleClass.exe
+  CircleClass.vcxproj -> X:\CircleClass\Debug\CircleClass.pdb (Partial PDB)
